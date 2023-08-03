@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Steven with the nickname "stvnus."
+- 👋 Hello, I'm Steven 
 - 👀 I’m interested in Quality Assurance
 
 
