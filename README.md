@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Steven 
+- 👋 Hello, I'm Steven Stefanus
 - 👀 I’m interested in Quality Assurance
 
 
