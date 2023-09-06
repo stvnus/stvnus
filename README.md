@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Steven Stefanus
-- 👀 I’m interested in Quality Assurance
+- 👀 I’m interested in Front End & Quality Assurance
 
 
 <!---
